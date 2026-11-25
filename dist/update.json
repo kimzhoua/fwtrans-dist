@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 240,\n  \"versionName\": \"2.7.5\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-dist/main/dist/app-2.7.5.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-dist/main/dist/app-2.7.5.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-dist/main/dist/update.json\",\n  \"sha256\": \"38773965252ed63544a77c7150e1634e6a28028e8379c7419cd4e79399e2b123\",\n  \"notes\": \"1. 原文对照改为一页到底，不再分批\\n2. 打开原文提速（分批/配对索引）\\n3. 设置里新增「清除缓存」\\n4. 修复切后台 TransactionTooLarge 崩溃\\n5. OTA 更新源迁移到 fwtrans-dist\"\n}",
+  "sig": "ooWHEmZpPKOghDcOSqliEt7CxSrFLpW49GEoOUsifcmY5ZqNDmDcTMQ/h9Jv5m3DjICvYOVOpMD4qMag3N+jilaVz+KWehVgpNr40b/4k+x7BtFQWFnOjUqIg4oW7QHh110O+J2gi/kwSnBFvLEdt8N1XZw+Pk+ekyWd21yrARga1hqhnF9lUxDVl2+QRAOWmNvACuMMXRn8oYmpBLjlua+rhm6JE1yUSEm7An15SEAVD/LcGe8pBI2UOqEkalRaw7FSVDtWZ7xu+J5o6LB51GkuSm/cnexSMGvFePjrfziHI6Hll78+LJT/C4ddgFCnUitgSNUabAiJBqhpLQihVg=="
+}
